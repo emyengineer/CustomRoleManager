@@ -28,3 +28,11 @@ D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\Ma
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.csprojResolveAssemblyReference.cache
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.dll
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.pdb
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\bin\Debug\ManageRoles.Models.dll.config
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\bin\Debug\ManageRoles.Models.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\bin\Debug\ManageRoles.Models.pdb
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\bin\Debug\System.Web.Mvc.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\bin\Debug\System.Web.Mvc.xml
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.csprojResolveAssemblyReference.cache
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.Models\obj\Debug\ManageRoles.Models.pdb

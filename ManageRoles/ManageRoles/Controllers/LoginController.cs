@@ -61,14 +61,16 @@ namespace ManageRoles.Controllers
                         if (_savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId) != null)
                         {
                             // 1 is SuperAdmin
-                            if (_savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId == Convert.ToInt32(ConfigurationManager.AppSettings["SuperAdminRolekey"]))
+                            if (_savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId 
+                                == Convert.ToInt32(ConfigurationManager.AppSettings["SuperAdminRolekey"]))
                             {
                                 Session["Role"] = _savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId;
                                 return RedirectToAction("Dashboard", "SuperDashboard");
                             }
 
                             // 2 is User
-                            if (_savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId  == Convert.ToInt32(ConfigurationManager.AppSettings["UserRolekey"]))
+                            if (_savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId  
+                                == Convert.ToInt32(ConfigurationManager.AppSettings["UserRolekey"]))
                             {
                                 Session["Role"] = _savedAssignedRoles.GetAssignedRolesbyUserId(usermasterModel.UserId).RoleId;
                                 return RedirectToAction("Dashboard", "UserDashboard");

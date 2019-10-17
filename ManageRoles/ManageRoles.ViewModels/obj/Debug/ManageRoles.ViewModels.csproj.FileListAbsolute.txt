@@ -26,3 +26,10 @@ D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\Ma
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.csprojResolveAssemblyReference.cache
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.dll
 D:\Projects\_Roles_project\ManageRoles\v1\ManageRoles\ManageRoles\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.pdb
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\bin\Debug\ManageRoles.ViewModels.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\bin\Debug\ManageRoles.ViewModels.pdb
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\bin\Debug\ManageRoles.Models.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\bin\Debug\ManageRoles.Models.pdb
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.csprojResolveAssemblyReference.cache
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.dll
+D:\Eman\CustomRoleManager\ManageRoles\ManageRoles.ViewModels\obj\Debug\ManageRoles.ViewModels.pdb
